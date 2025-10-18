@@ -62,9 +62,3 @@ print(network.feedforward(x))
 # Training the Neural Network
 # We’ll represent Male with a 00 and Female with a 11, and we’ll also shift the data to make it easier to use.
 # We shift by arbitrary amounts (133 and 66), normally would shift by mean.
-
-# To measure how good a network is and how to improve it, we use loss
-# We use the mean square error (MSE) loss
-# Better predictions = Lower loss
-# So we basically find the squared error and then add it and divide by n (average) (standard deviation formula basically)
-# Training a network = trying to minimise its loss
