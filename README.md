@@ -1,1 +1,1 @@
-"# Neural_network_python" 
+Basics of a neural netwrok from scratch in python!
